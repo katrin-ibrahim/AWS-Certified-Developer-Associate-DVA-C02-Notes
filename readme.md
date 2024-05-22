@@ -1,12 +1,4 @@
 
-___
-<br>
-
-## Notes for the Udemy Course "**[Ultimate AWS Certified Developer Associate DVA-C02](https://www.udemy.com/share/101WgC3@DRbJZZoAoUIMoYUmM3u5Ke78QEJ9BP5f8qPUuyMpR6phqEGLaAqnz7zAl-GsFUH-/)**"
-<br>
-
-___
-
 # 4️⃣ IAM & AWS CLI 
 ### IAM = Identity and Access Management (_Global Service_)
 ## 🟨 Consists of
